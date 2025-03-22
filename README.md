@@ -1,5 +1,4 @@
 # Amazon Clone Web Page
-
 ## Overview
 This project is a simple **Amazon Clone** web page built using **HTML and CSS**. It replicates Amazon's homepage's basic layout and styling, including the navigation bar, banner, product sections, and footer. This project aims to practice front-end web development skills and improve proficiency in responsive design.
 
